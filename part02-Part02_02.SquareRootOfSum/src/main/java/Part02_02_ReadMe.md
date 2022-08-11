@@ -1,0 +1,1 @@
+![Square Root of Sum Question](squarerootofsum.png)
